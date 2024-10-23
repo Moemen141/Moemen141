@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Moemen+Masri!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=;" />
 </h1>
 
 <h3 align="center">A passionate software developer (not yet) from Lebanon</h3>
@@ -14,8 +14,7 @@
  
  🌱 I’m currently learning **C++, Python, Data_Structure, Database**
 
-⚡ Fun fact **Squid game is the most boring series Korea has ever produced**
-
+⚡  Open to collaborations and new ideas!
  </div>
 
  <div align="center"> 
@@ -36,15 +35,5 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,firebase,mongodb,c,java,mysql" /><br>
 </div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 <br/>
